@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codewars_Gap_in_Primes", "Codewars_Gap_in_Primes\Codewars_Gap_in_Primes.csproj", "{2219D17E-D900-40BB-B6BF-6792726B545F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2219D17E-D900-40BB-B6BF-6792726B545F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2219D17E-D900-40BB-B6BF-6792726B545F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2219D17E-D900-40BB-B6BF-6792726B545F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2219D17E-D900-40BB-B6BF-6792726B545F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40D36E95-1C8A-40FE-B678-89F4E83BECEF}
+	EndGlobalSection
+EndGlobal
